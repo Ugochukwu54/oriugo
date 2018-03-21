@@ -1,0 +1,2 @@
+# oriugo
+my first repo
